@@ -1,1 +1,1 @@
-# latitude
+# latitude.github.io
