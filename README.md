@@ -1,1 +1,1 @@
-# latitude.github.io
+# https://ppages01.github.io/latitude/
